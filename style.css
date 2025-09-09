@@ -66,6 +66,6 @@ button:not(.clear-btn) {
   transition: background-color 0.2s ease;
 }
 
-button:not(.clear-btn):hover {
+button:not(.clear-btn):hover  {
   background-color: rgb(220, 220, 220);
-}
+} 
