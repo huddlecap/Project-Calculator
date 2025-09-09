@@ -2,7 +2,7 @@ const btn = document.querySelector('.btn');
 const display = document.querySelector('.display');
 const clearbtn = document.querySelector(".clear-btn");
 
-// Button creation helper
+// Button creation helper funciton
 function createButton(label, handler) {
   const button = document.createElement('button');
   button.textContent = label;
